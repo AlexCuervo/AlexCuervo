@@ -1,6 +1,6 @@
 <!-- Optional: you can place your avatar or banner here -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="120" alt="Alex profile picture"/>
+  <img src="https://avatars.githubusercontent.com/u/158803674?s=400&u=0d32241376860b7d0da3db00aafb15e42ea92b27&v=4" width="120" alt="Alex profile picture"/>
 </p>
 
 <h1 align="center">Hi, I'm Alex 👋</h1>
