@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Alex 👋</h1>
-<h3 align="center">Computer Science Student | Competitive Programming | AI Enthusiast</h3>
+<h3 align="center">Computer Science Student | Competitive Programming</h3>
 
 ---
 
@@ -21,7 +21,7 @@
 ## 🛠️ Tech Stack
 - **Main languages:** C# · Python  
 - **Additional experience:** C++ · Java  
-- **Frameworks:** .NET · Spring Boot  
+- **Frameworks:** .NET · Django · FastAPI · Spring Boot  
 - **Tools:** VS Code · Git  
 
 <p align="center">
