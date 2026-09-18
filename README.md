@@ -10,7 +10,7 @@
 
 ## 🎓 About Me
 - 📚 Currently pursuing my **Bachelor’s degree in Computer Science**.  
-- 🏆 Experienced in **competitive programming (ICPC)**, applying both theory and practice in algorithms and data structures.  
+<!-- - 🏆 Experienced in **competitive programming (ICPC)**, applying both theory and practice in algorithms and data structures. -->  
 - 💻 Some of my projects include:  
   - **Walle-Compiler** → an interpreter to C#.  
   - **Cooperative maze game with auto-generated levels**.  
